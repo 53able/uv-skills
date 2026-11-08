@@ -1,0 +1,596 @@
+{
+  "retrieved_at": "2026-11-08",
+  "source": "https://docs.astral.sh/uv/",
+  "inventory_source": "https://docs.astral.sh/uv/sitemap.xml",
+  "metric": "official sitemap page to substantive local guidance mapping; not option or assertion coverage",
+  "pages": [
+    {
+      "url": "https://docs.astral.sh/uv/",
+      "status": 200,
+      "id": 0,
+      "source_sha256": "b480f967c391e9335e659843475e523046717aa60bdf0a859721cba59fcc98ba",
+      "reference": "references/projects.md#p0"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/getting-started/",
+      "status": 200,
+      "id": 1,
+      "source_sha256": "d59fcf6e2d7eadc3334184a05c4d7c6083fc356dc0724334a16e6993df467baf",
+      "reference": "references/projects.md#p1"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/getting-started/installation/",
+      "status": 200,
+      "id": 2,
+      "source_sha256": "5badb6db3921f1875565fc9fbceeabf7a31bc778cf6b2be7ae32865ec0439dd6",
+      "reference": "references/projects.md#p2"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/getting-started/first-steps/",
+      "status": 200,
+      "id": 3,
+      "source_sha256": "95ec78544273886f9f50e7e462d0526967150b2283224f8a26b19c3d6b7d1257",
+      "reference": "references/projects.md#p3"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/getting-started/features/",
+      "status": 200,
+      "id": 4,
+      "source_sha256": "1f75b0d76b924e84979a05e184a33e5d1060ddb65f2e7acaf1767d61817b60e4",
+      "reference": "references/projects.md#p4"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/getting-started/help/",
+      "status": 200,
+      "id": 5,
+      "source_sha256": "c4ecf83b36603620332178c062ce980f03223486324968596f57ae52ceec60d2",
+      "reference": "references/projects.md#p5"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/",
+      "status": 200,
+      "id": 6,
+      "source_sha256": "5efae670f0a0c2f60d1687c8f46b7d39235eaabe4c8fd88361d0a477b6a6abb5",
+      "reference": "references/projects.md#p6"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/install-python/",
+      "status": 200,
+      "id": 7,
+      "source_sha256": "94a146a67aa30b21c7c25e147ea6c5aba0c9299e87d5ab1422bb99053c41718a",
+      "reference": "references/projects.md#p7"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/scripts/",
+      "status": 200,
+      "id": 8,
+      "source_sha256": "3535649318748b24b7796636b26b8f699c9ff2354423d8a1663abf679914cfb7",
+      "reference": "references/projects.md#p8"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/tools/",
+      "status": 200,
+      "id": 9,
+      "source_sha256": "da9c0cbb2da5faa968557977c2e0e5e5abfcb975c97ae7f8512d2ba5c77338f4",
+      "reference": "references/projects.md#p9"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/projects/",
+      "status": 200,
+      "id": 10,
+      "source_sha256": "c72c8fe9ce4201ba5a9194a5f13dd8192e361561989e6365e00f12b4e0125c13",
+      "reference": "references/projects.md#p10"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/package/",
+      "status": 200,
+      "id": 11,
+      "source_sha256": "66b9d5d43280ca7e5498e8fb833d7928405a8fe56af2382d444fdd1e865430f2",
+      "reference": "references/projects.md#p11"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/migration/",
+      "status": 200,
+      "id": 12,
+      "source_sha256": "2f52a10538a20de99cec5329836d41916cdc9d84d34feffc148e327d426921e1",
+      "reference": "references/projects.md#p12"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/migration/pip-to-project/",
+      "status": 200,
+      "id": 13,
+      "source_sha256": "94524dcde15417e3d016f889ea142d5a24107afadbfa742cf28ff10a71fc69e7",
+      "reference": "references/projects.md#p13"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/",
+      "status": 200,
+      "id": 14,
+      "source_sha256": "8e1d9ed5ce1286e098e1c0f089686161850418d84cfdff6f1709b627f47fb527",
+      "reference": "references/integrations.md#p14"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/docker/",
+      "status": 200,
+      "id": 15,
+      "source_sha256": "e9dd4d295a133dab302e8c23283dd977434802bc2d5a49a92b32eb555af01f64",
+      "reference": "references/integrations.md#p15"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/jupyter/",
+      "status": 200,
+      "id": 16,
+      "source_sha256": "86837134b1d1321358a8bb8b8a8d31bbb1fa90b82e7f5c4fdac488d557c059a2",
+      "reference": "references/integrations.md#p16"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/marimo/",
+      "status": 200,
+      "id": 17,
+      "source_sha256": "2fde9cd66e1f18653b16fc7d3e8a177b99a31f355f02d1f9b725961c27edf3aa",
+      "reference": "references/integrations.md#p17"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/github/",
+      "status": 200,
+      "id": 18,
+      "source_sha256": "9fcb283df1d70915ba48f15f427ea76c38ed296aa5f300ba4373763ff21d75a5",
+      "reference": "references/integrations.md#p18"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/gitlab/",
+      "status": 200,
+      "id": 19,
+      "source_sha256": "a483a657bbb48e3f08eb8a7c2aef92e5bf57ac277b4bb9a418faf90d57c7246d",
+      "reference": "references/integrations.md#p19"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/pre-commit/",
+      "status": 200,
+      "id": 20,
+      "source_sha256": "62fb4c9db37584ebabf9deacfbac4f34bc86f670ad3ac585cc83abe1cd9a683f",
+      "reference": "references/integrations.md#p20"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/pytorch/",
+      "status": 200,
+      "id": 21,
+      "source_sha256": "1d3bf0ce8184614c34676399d562595c5adc49fc583d4118479c5cb97a0dc64d",
+      "reference": "references/integrations.md#p21"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/fastapi/",
+      "status": 200,
+      "id": 22,
+      "source_sha256": "f49d5781c7274ad89b7409d74a45187a31a3d5f8d20c0a57b30dd3fc661acfbf",
+      "reference": "references/integrations.md#p22"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/bazel/",
+      "status": 200,
+      "id": 23,
+      "source_sha256": "2102dd8b9bc3a0f8f8d6d13398aa4493cee1c41cfeed6866c1a68940ae73cb68",
+      "reference": "references/integrations.md#p23"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/azure/",
+      "status": 200,
+      "id": 24,
+      "source_sha256": "e165b5fc0c9caa9c186b15388c38ab607446ec0c79987e1dc6a80696365707ef",
+      "reference": "references/integrations.md#p24"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/google/",
+      "status": 200,
+      "id": 25,
+      "source_sha256": "0b52ac726cdca33220f01293dfc6eef58e4ac7a4d56b9153ad600b7b04fe7034",
+      "reference": "references/integrations.md#p25"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/aws/",
+      "status": 200,
+      "id": 26,
+      "source_sha256": "cc467c703cee995999223a459c1595bceabf875e05ed8139e4c6eeecee9c9b7f",
+      "reference": "references/integrations.md#p26"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/jfrog/",
+      "status": 200,
+      "id": 27,
+      "source_sha256": "b85037feb488e7abc5cf36cb9aba3923b83a9cbd9ac23742c333cd92f7d7bbdf",
+      "reference": "references/integrations.md#p27"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/renovate/",
+      "status": 200,
+      "id": 28,
+      "source_sha256": "dc55fc6c322ea29ed91a96ce1c3c188c0af777d2cac5c12ff168fca2ceb6b30a",
+      "reference": "references/integrations.md#p28"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/dependabot/",
+      "status": 200,
+      "id": 29,
+      "source_sha256": "ff1532e2c509bf8a58eea8e017aad99cbe606d4c39660ba5ca965f5205132c6c",
+      "reference": "references/integrations.md#p29"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/aws-lambda/",
+      "status": 200,
+      "id": 30,
+      "source_sha256": "b6f5b8ba79a8fbc52cf91942ff4aa63988dae359cf0000af49a857c642d1618f",
+      "reference": "references/integrations.md#p30"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/guides/integration/coiled/",
+      "status": 200,
+      "id": 31,
+      "source_sha256": "d5fff8723c04a03c5b2b44ce0aa7af76e5a70a06b288c0eba3ec1ee900a6738e",
+      "reference": "references/integrations.md#p31"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/",
+      "status": 200,
+      "id": 32,
+      "source_sha256": "f13fe5f610491eb0094be9433321f67a39c72b9988ac3736c2b5fdf39443dd57",
+      "reference": "references/projects.md#p32"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/",
+      "status": 200,
+      "id": 33,
+      "source_sha256": "995666f82c122e4c6c799f3592e36fc6bc4775bfd3a315af6ecc9d4be83334aa",
+      "reference": "references/projects.md#p33"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/layout/",
+      "status": 200,
+      "id": 34,
+      "source_sha256": "7f79464062e286aee5195b49f766380b1758329a6cc35c330c2e53c896d443e0",
+      "reference": "references/projects.md#p34"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/init/",
+      "status": 200,
+      "id": 35,
+      "source_sha256": "a86676c3bd73268da0c0c77528e8cf6820128010128e564a9df15417fac151dc",
+      "reference": "references/projects.md#p35"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/dependencies/",
+      "status": 200,
+      "id": 36,
+      "source_sha256": "121959ea21c9a89a45e111003c479dcaa5c6b6cca7dafd4884aeab723eb7642f",
+      "reference": "references/projects.md#p36"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/run/",
+      "status": 200,
+      "id": 37,
+      "source_sha256": "030d16996749083cb32929bb5d9808b1be620ee3b4783a6e95c9707cb04872ef",
+      "reference": "references/projects.md#p37"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/sync/",
+      "status": 200,
+      "id": 38,
+      "source_sha256": "bd459a49441340ff0d60638d666be992aefacc832807821519eafe6c487e3b1d",
+      "reference": "references/projects.md#p38"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/config/",
+      "status": 200,
+      "id": 39,
+      "source_sha256": "8791aa3c4a66fe18eee39524600f4d8b506eaa9ade7a5fcd0c65e315884605dc",
+      "reference": "references/projects.md#p39"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/build/",
+      "status": 200,
+      "id": 40,
+      "source_sha256": "fb58cb562108785a9d0b325032e045687fcc044badc16f8baa4a63fa7dc9a7f4",
+      "reference": "references/projects.md#p40"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/export/",
+      "status": 200,
+      "id": 41,
+      "source_sha256": "a43b7d5adc1c5a026491df045e40d1a883d05a4247e0d3ac3a72a8545409c1c9",
+      "reference": "references/projects.md#p41"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/projects/workspaces/",
+      "status": 200,
+      "id": 42,
+      "source_sha256": "c1011756b60a327c6efbef6ed536d82d04ef941f1b5620db30e0faf12ca5e34c",
+      "reference": "references/projects.md#p42"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/tools/",
+      "status": 200,
+      "id": 43,
+      "source_sha256": "bc5b22e52510743cb8137de81c23d76883f9531c6c3d7d333b9cb46232500de3",
+      "reference": "references/projects.md#p43"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/python-versions/",
+      "status": 200,
+      "id": 44,
+      "source_sha256": "093c6e5866ad6b1f22bbf3c5b79e205de67e5f39d40e966ac8bceeebbe454e46",
+      "reference": "references/projects.md#p44"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/configuration-files/",
+      "status": 200,
+      "id": 45,
+      "source_sha256": "00d0b4819cb9ed07d545f65a0e40a15743445aa7b2c80b6da797d983522bd228",
+      "reference": "references/advanced.md#p45"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/indexes/",
+      "status": 200,
+      "id": 46,
+      "source_sha256": "3d89aa39de2191439c28b46810fce8122f21635d41bc1f06912b0c6859ea9d1a",
+      "reference": "references/advanced.md#p46"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/resolution/",
+      "status": 200,
+      "id": 47,
+      "source_sha256": "dcfe24bd26a66b5a2e46794d9962ad1577ccb0bb6cfb87b435b4ad7a5c746bf5",
+      "reference": "references/advanced.md#p47"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/build-backend/",
+      "status": 200,
+      "id": 48,
+      "source_sha256": "407dc49884cb8e3bb310a7deca6e9fb734a2dc6b8cfff6f38351ff41c6bb8747",
+      "reference": "references/advanced.md#p48"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/",
+      "status": 200,
+      "id": 49,
+      "source_sha256": "461f37ba5fa3545564a602e2e3dca3de19797792b429f811e9deb474e977d355",
+      "reference": "references/advanced.md#p49"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/cli/",
+      "status": 200,
+      "id": 50,
+      "source_sha256": "16b328b0deb5e6bae8736e908fa7afbdfc1effc2d2a36b9c859bd3e9761f6731",
+      "reference": "references/advanced.md#p50"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/http/",
+      "status": 200,
+      "id": 51,
+      "source_sha256": "43dbce224379abbe5b3c56d44c14fec49530471c9b0fb51f27121b0fb83a0d9b",
+      "reference": "references/advanced.md#p51"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/git/",
+      "status": 200,
+      "id": 52,
+      "source_sha256": "20da398fe766d78ff03514707e7c5f607482083e54ec93e431c3851955499999",
+      "reference": "references/advanced.md#p52"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/certificates/",
+      "status": 200,
+      "id": 53,
+      "source_sha256": "c4ab2cc55c3a2c7a1de8eb1cad12e080065da1749eef1c0bf1a445c7451b23c2",
+      "reference": "references/advanced.md#p53"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/authentication/third-party/",
+      "status": 200,
+      "id": 54,
+      "source_sha256": "b5fa92f3a368eee2725e0690714bcbfc5ba6937b063a2fecfa396629f4bf0b96",
+      "reference": "references/advanced.md#p54"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/cache/",
+      "status": 200,
+      "id": 55,
+      "source_sha256": "b47463473191a796960fc1502d45012f04172e8e015976ceb20bab8623445da0",
+      "reference": "references/advanced.md#p55"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/concepts/preview/",
+      "status": 200,
+      "id": 56,
+      "source_sha256": "eed989b9424939b9b3e26cdcf5bb82a21468224d22626e3751cadf2076b186a2",
+      "reference": "references/advanced.md#p56"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/",
+      "status": 200,
+      "id": 57,
+      "source_sha256": "411b70ab2b6567c19b90627a8b2f11a22e322284488c2959916a716b9fd9cf3a",
+      "reference": "references/advanced.md#p57"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/environments/",
+      "status": 200,
+      "id": 58,
+      "source_sha256": "2e7709bdae7734d3f557cbcce23bd62d1ab23be32a9b1586e8fc51ee019acfa8",
+      "reference": "references/advanced.md#p58"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/packages/",
+      "status": 200,
+      "id": 59,
+      "source_sha256": "fe3e794af2f4bf99c363726f75a06102096ddf7589870da9fb2acaa5b8fbac9a",
+      "reference": "references/advanced.md#p59"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/inspection/",
+      "status": 200,
+      "id": 60,
+      "source_sha256": "36a59fdc6e9b396bb202a1600b2b8076031e855504dc4616d9fdb0bb599a6760",
+      "reference": "references/advanced.md#p60"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/dependencies/",
+      "status": 200,
+      "id": 61,
+      "source_sha256": "efbc606815a0560dce18f268c150a649df8565b188a4048cefb46b746df6a91c",
+      "reference": "references/advanced.md#p61"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/compile/",
+      "status": 200,
+      "id": 62,
+      "source_sha256": "af39cd97596c689629b2c0485c1491d6597d70339dc58b0d1f68017d772b3523",
+      "reference": "references/advanced.md#p62"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/pip/compatibility/",
+      "status": 200,
+      "id": 63,
+      "source_sha256": "e386cbcf2a6239705295f29efb18384aaf82311c2582bcf44bc9fd69bbec591f",
+      "reference": "references/advanced.md#p63"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/",
+      "status": 200,
+      "id": 64,
+      "source_sha256": "b3a86c4490b7a60170bb0e995f6806b904212234a0436744fae61fb9e674fd0a",
+      "reference": "references/command-reference.md#p64"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/cli/",
+      "status": 200,
+      "id": 65,
+      "source_sha256": "255ec70d3e8938a09ca9d711a0419a82a540c5ec03965493a275c3aeb5b91164",
+      "reference": "references/command-reference.md#p65"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/settings/",
+      "status": 200,
+      "id": 66,
+      "source_sha256": "8a0ef8ef4952d27d705d0f0660ed9853a88dae2167b182a553b6de7ebd5cfd9a",
+      "reference": "references/command-reference.md#p66"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/environment/",
+      "status": 200,
+      "id": 67,
+      "source_sha256": "b9a0f9ca26f304dcd5f07a0ce43da13614aad060641f97339906de90d621c3cf",
+      "reference": "references/command-reference.md#p67"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/storage/",
+      "status": 200,
+      "id": 68,
+      "source_sha256": "f46e40e2b95d93fe1670f280471f912af8788b4f7f973519068ae87c05e192ec",
+      "reference": "references/advanced.md#p68"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/installer/",
+      "status": 200,
+      "id": 69,
+      "source_sha256": "5ad6c3f6de0bde19dfff5712f2034f6e66656e05d8bf350babe90400f14305c3",
+      "reference": "references/advanced.md#p69"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/troubleshooting/",
+      "status": 200,
+      "id": 70,
+      "source_sha256": "0b91775e51a2452166fa49743e4ba4c1719794571b590229785528857e4b84cb",
+      "reference": "references/advanced.md#p70"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/troubleshooting/build-failures/",
+      "status": 200,
+      "id": 71,
+      "source_sha256": "91fb914d6bff2f3bca517d31be1d72b42d75f156218e32936391b9e6a21e3550",
+      "reference": "references/advanced.md#p71"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/troubleshooting/reproducible-examples/",
+      "status": 200,
+      "id": 72,
+      "source_sha256": "0cb00881a0c6b03539f17df96ca6efd8f7afb08b33cb74cb6e9d5d6bcbdff6c6",
+      "reference": "references/advanced.md#p72"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/contributing/",
+      "status": 200,
+      "id": 73,
+      "source_sha256": "e3e41adf4138155cdbc9bca54ce1bdd6fe3390170c346fe70b1289c70d1f43e4",
+      "reference": "references/advanced.md#p73"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/internals/",
+      "status": 200,
+      "id": 74,
+      "source_sha256": "3cc35d542c22d3d9b3cf967908d9ad5eeb19949f47de36246418b9fbce94b322",
+      "reference": "references/advanced.md#p74"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/internals/resolver/",
+      "status": 200,
+      "id": 75,
+      "source_sha256": "580f9cefd87b7100f28cd6fabe996080627949a77810c65cff3e763001a4f797",
+      "reference": "references/advanced.md#p75"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/internals/metadata/",
+      "status": 200,
+      "id": 76,
+      "source_sha256": "fc290c966bba2bf5744fc882afd28023a2d9114001621f23cf44117a2207bb4d",
+      "reference": "references/advanced.md#p76"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/benchmarks/",
+      "status": 200,
+      "id": 77,
+      "source_sha256": "8d0d092cdbcca42168b60e5a3b4deaadca4636aa9cf86c3f980f222befff9307",
+      "reference": "references/advanced.md#p77"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/",
+      "status": 200,
+      "id": 78,
+      "source_sha256": "e570c8e892ed40e2cf964c29889d1c53a1b634463de4978f8a95ffbe9a9fddc5",
+      "reference": "references/advanced.md#p78"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/versioning/",
+      "status": 200,
+      "id": 79,
+      "source_sha256": "4a0ef35179224ce23ef8e03d9f9540219e8f22fab546cdf379d4d14c5a597166",
+      "reference": "references/advanced.md#p79"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/platforms/",
+      "status": 200,
+      "id": 80,
+      "source_sha256": "52d9fd37c170558c4f376c07a1b1abce4434c8d95e218f86ed05b13636c61cd2",
+      "reference": "references/advanced.md#p80"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/python/",
+      "status": 200,
+      "id": 81,
+      "source_sha256": "96beebc98c8745427c8520a95cf7554345fb4c02fc51f7c1874f721a9ad05e28",
+      "reference": "references/advanced.md#p81"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/rust/",
+      "status": 200,
+      "id": 82,
+      "source_sha256": "40d3913fe6005898815630b6322f46c51dd2a7caf1e2471eea9fda91abea65db",
+      "reference": "references/advanced.md#p82"
+    },
+    {
+      "url": "https://docs.astral.sh/uv/reference/policies/license/",
+      "status": 200,
+      "id": 83,
+      "source_sha256": "84ee7c6dbbee40b2964f5df8388b75fb4180b605423d31289cfc379905865b4e",
+      "reference": "references/advanced.md#p83"
+    }
+  ]
+}

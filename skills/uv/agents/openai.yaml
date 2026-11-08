@@ -1,0 +1,4 @@
+interface:
+  display_name: "uv"
+  short_description: "uvでPythonの依存・環境・ツール・CIを管理し、公式資料に基づいて検証する"
+  default_prompt: "$uv を使って、このPythonプロジェクトの依存関係と実行環境を整備してください。"
